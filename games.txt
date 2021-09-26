@@ -1,4 +1,0 @@
-Mario;snes
-zelda;n64
-God of war;Ps2
-Mario;snes
