@@ -55,7 +55,7 @@ while True:
     print('2 - Listar cadastros')
     print('3 - Sair')
 
-    op = valida_int('Escolha a opção desejada:', 1, 2)
+    op = valida_int('Escolha a opção desejada:', 1, 3)
     if op == 1:
         print('Opção de cadastrar novo item selecionada...\n')
         nomeJogo = input('Nome do jogo:')
