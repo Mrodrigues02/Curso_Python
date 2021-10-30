@@ -11,7 +11,7 @@ def criarArquivo (nomeArquivo):
   except:
     print('Erro na criação do arquivo.')
   else:
-    print('Arquivo {} foi criado com sucess!\n'.format(nomeArquivo))
+    print('Arquivo {} foi criado com sucesso!\n'.format(nomeArquivo))
 
 def existeArquivo(nomeArquivo):
   try:
